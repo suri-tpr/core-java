@@ -1,0 +1,12 @@
+
+Consumr --> accept (for each)
+supplier --> get
+Predicat --> test ( filter)
+Function --> apply
+
+
+ArrayList LinkedList Vector
+
+Hashset LinkedHashset Treeset
+
+Hashmap, LinkedHashMap, ConcurrentHashMap
